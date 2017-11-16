@@ -19,6 +19,22 @@ In controlled situations flaws can be alleviated and SSR can deliver astonishing
 - clearly written article with code examples
 - how to resolve common problems
 
+## Optimized pixel-projected reflections for planar reflectors
+[Link to PowerPoint presentation](http://advances.realtimerendering.com/s2017/PixelProjectedReflectionsAC_v_1.92.pptx)
+- constrained form of SSR
+- reverse the reflection tracing
+- calculate which pixel is hit in the reflection, resolve later without searching
+- can be selectively used where applicable
+- normal maps can be approximated, but more costly
+- shader code example
+
+## Notes On Screen Space HIZ Tracing
+http://bitsquid.blogspot.co.uk/2017/08/notes-on-screen-space-hiz-tracing.html
+
+![](https://github.com/greje656/Questions/raw/master/images/ssr6.jpg)
+
+This is the article that I want check the most.
+
 
 
 
