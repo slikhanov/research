@@ -10,4 +10,7 @@
 ### Efficient Weighted Sampling
  https://www.sebastiansylvan.com/post/importancesampling/
 
+## Bump Mapping
+ http://apoorvaj.io/exploring-bump-mapping-with-webgl.html
+
 
