@@ -5,6 +5,8 @@
 ### Precomputed Atmospheric Scattering: a New Implementation
 https://ebruneton.github.io/precomputed_atmospheric_scattering/
 
+![](https://ebruneton.github.io/precomputed_atmospheric_scattering/atmosphere/reference/LuminanceCombineTexturesSpectralAlbedo2.png)
+
 This document presents a new implementation of our Precomputed Atmospheric Scattering paper.
 
 ### Sky Rendering in WebGL
