@@ -36,5 +36,10 @@ present here has already been made public in the GDC 2013 session “Photorealis
 2. [Reverse engineering the rendering of The Witcher 3, part 2 - eye adaptation](http://astralcode.blogspot.com/2017/10/reverse-engineering-rendering-of.html)
 3. [Reverse engineering the rendering of The Witcher 3, part 3 - chromatic aberration](http://astralcode.blogspot.com/2017/10/reverse-engineering-rendering-of_26.html)
 
+## Far Cry 4 - Designing a next-generation post-effects pipeline
+
+https://bartwronski.com/2014/12/09/designing-a-next-generation-post-effects-pipeline/
+
+![](https://bartwronski.files.wordpress.com/2014/12/farcry4.jpg?w=1280&h=720)
 
 
