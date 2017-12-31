@@ -18,6 +18,16 @@ http://www.jandeinhard.de/2017/09/15/cpp-and-docker.html
 
 I'm going after 2 things here - Docker and actually trying C++17 and GCC.
 
+## Clang 5 in a Docker container for C++17 development
+https://solarianprogrammer.com/2017/12/14/clang-in-docker-container-cpp-17-development/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+SolarianProgrammer+%28Solarian+Programmer%29
+
+Pretty similar to previous article, using Clang 5.
+
+## A checklist for Docker in the Enterprise
+https://zwischenzugs.com/2016/07/08/a-checklist-for-docker-in-the-enterprise/
+
+Pretty famous checklist about usage of Docker in production.
+
 ## Docker On Windows
 
 This series of links are about specifics of running Windows Docker images.

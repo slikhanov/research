@@ -16,3 +16,8 @@ http://fabiensanglard.net/floating_point_visually_explained/
 Nice explanation of floating point precision. Also there is a mention of a good book,
 check maybe I want to read it.
 
+## Lindenmayer systems
+http://jobtalle.com/lindenmayer_systems.html
+
+Overview.
+
