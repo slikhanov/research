@@ -21,3 +21,16 @@ http://jobtalle.com/lindenmayer_systems.html
 
 Overview.
 
+## Introduction to Functional Analysis
+http://www1.maths.leeds.ac.uk/~kisilv/courses/math3263m.html
+
+Lectures.
+
+## The Matrix Cookbook
+http://www2.imm.dtu.dk/pubdb/views/edoc_download.php/3274/pdf/imm3274.pdf
+
+## Understanding The Discrete Fourier Transform
+https://blog.demofox.org/2016/08/11/understanding-the-discrete-fourier-transform/
+
+
+

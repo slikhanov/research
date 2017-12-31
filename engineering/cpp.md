@@ -11,6 +11,10 @@ A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - 
 A simple header-only C++ argument parser library. Supposed to be flexible and powerful, and attempts to be compatible with the functionality of the Python standard argparse library (though not necessarily the API).
 https://github.com/Taywee/args
 
+### process.h
+A simple one header solution to launching processes and interacting with them for C/C++.
+http://www.duskborn.com/introducing-process-h/
+
 ## C++ links: computer architecture - GPU
 https://github.com/MattPD/cpplinks/blob/master/comparch.gpu.md
 

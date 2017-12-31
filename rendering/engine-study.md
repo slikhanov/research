@@ -42,4 +42,18 @@ https://bartwronski.com/2014/12/09/designing-a-next-generation-post-effects-pipe
 
 ![](https://bartwronski.files.wordpress.com/2014/12/farcry4.jpg?w=1280&h=720)
 
+## DOOM (2016) - Graphics Study
+
+http://www.adriancourreges.com/blog/2016/09/09/doom-2016-graphics-study/
+
+![](http://www.adriancourreges.com/img/blog/2016/doom2016/shot/99_final.jpg)
+
+The new DOOM is a perfect addition to the franchise, using the new id Tech 6 engine where ex-Crytek 
+Tiago Sousa now assumes the role of lead renderer programmer after John Carmack’s departure.
+Historically id Software is known for open-sourcing their engines after a few years, which often 
+leads to nice remakes and breakdowns. Whether this will stand true with id Tech 6 remains to be seen 
+but we don’t necessarily need the source code to appreciate the nice graphics techniques implemented 
+in the engine.
+
+
 

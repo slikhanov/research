@@ -7,11 +7,22 @@ https://blog.bam.tech/developper-news/dockerize-your-app-and-keep-hot-reloading
 
 Pretty random article, one of many I want to check on the Docker usage.
 
+## Fast development workflow with Docker and Kubernetes
+https://dev.to/datawireio/fast-development-workflow-with-docker-and-kubernetes-1if
+
+Development setup. Kubernetes part is interesting to study.
+
 ## Rails on Docker: Using Docker Compose with Your Ruby on Rails Apps
 https://www.chrisblunt.com/rails-on-docker-using-docker-compose-with-your-ruby-on-rails-apps/
 
 Another article how to use Docker. I'm not perticularly interested in RoR, but
 I'm hoping that this article will help me understand some mechanics of Docker usage.
+
+## Developing Microservices - Node, React, and Docker 
+http://mherman.org/blog/2017/05/11/developing-microservices-node-react-docker/#.WkhZnCOZP6D
+
+In this post you will learn how to quickly spin up a reproducible development environment with Docker 
+to manage a number of Node.js microservices.
 
 ## Try C++17 with Docker
 http://www.jandeinhard.de/2017/09/15/cpp-and-docker.html
@@ -28,6 +39,11 @@ https://zwischenzugs.com/2016/07/08/a-checklist-for-docker-in-the-enterprise/
 
 Pretty famous checklist about usage of Docker in production.
 
+## Static code analysis in 3 steps
+https://dev.to/rafalpienkowski/static-code-analysis-in-3-steps-2ahi
+
+Another docker image usage.
+
 ## Docker On Windows
 
 This series of links are about specifics of running Windows Docker images.
@@ -42,6 +58,12 @@ Could be useful to build image for building instance.
 https://docs.microsoft.com/en-us/dotnet/standard/microservices-architecture/
 
 Microsoft eBook about containers in Windows.
+
+### How to install DirectX to Windows Server Core (docker container)
+https://social.msdn.microsoft.com/Forums/sqlserver/en-US/386adbc4-3e43-4896-8cbb-ba9cc7fc6b72/how-to-install-directx-to-windows-server-core-docker-container?forum=windowscontainers
+
+Discussion about installing DirectX in Windows Docker image.
+
 
 
 
