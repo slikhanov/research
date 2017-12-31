@@ -16,4 +16,6 @@ Nice tutorial how to render metaballs.
 ## OpenGL Insights Book
 http://openglinsights.com/toc.html
 
+## A PROCEDURAL SOAP BUBBLE IN TWELVE EASY STEPS
+http://mrl.nyu.edu/~perlin/bubble_breakdown/
 

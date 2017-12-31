@@ -48,6 +48,11 @@ https://www.panda3d.org/forums/viewtopic.php?f=8&t=15742
 
 ![](http://panda3d.org.ru/_fr/2/7894072.jpg)
 
+## An Efficient Depth Linearization Method for Oblique View Frustums
+http://jcgt.org/published/0005/04/03/
+
+Not necessarily SSLR article but this technique is used in SSLR implementations.
+
 
 
 
