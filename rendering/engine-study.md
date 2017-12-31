@@ -28,4 +28,13 @@ new level of graphics quality thanks to the Fox Engine developed by Kojima Produ
 is based on the PC version of the game with all the quality knobs set to maximum. Some of the information I 
 present here has already been made public in the GDC 2013 session “Photorealism Through the Eyes of a FOX”.
 
+## Reverse Engineering The Rendering of The Witcher 3
+
+![](https://i.imgur.com/EnPXObO.jpg)
+
+1. [Reverse engineering the rendering of The Witcher 3, part 1 - tonemapping](http://astralcode.blogspot.com/2017/09/reverse-engineering-rendering-of.html)
+2. [Reverse engineering the rendering of The Witcher 3, part 2 - eye adaptation](http://astralcode.blogspot.com/2017/10/reverse-engineering-rendering-of.html)
+3. [Reverse engineering the rendering of The Witcher 3, part 3 - chromatic aberration](http://astralcode.blogspot.com/2017/10/reverse-engineering-rendering-of_26.html)
+
+
 
