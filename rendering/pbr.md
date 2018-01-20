@@ -14,6 +14,11 @@ https://gist.github.com/romainguy/a2e9208f14cae37c579448be99f78f25
 
 As a follow-up, the gist with mediump implementation of GGX.
 
+## Microfacet BRDF
+http://simonstechblog.blogspot.com/2011/12/microfacet-brdf.html?m=1
+
+In recent years, there are more and more papers talking about applying physically based BRDF in games. So I decided to spend some time to investigate it.
+
 ## SIGGRAPH 2017 - Physically-Based Materials - Where Are We? 
 https://seblagarde.wordpress.com/2017/09/09/siggraph-2017-physically-based-materials-where-are-we/
 
