@@ -53,6 +53,15 @@ http://jcgt.org/published/0005/04/03/
 
 Not necessarily SSLR article but this technique is used in SSLR implementations.
 
+## Reprojecting Reflections
+https://gamedev.autodesk.com/blogs/1/post/2984586784789751777
+
+![](https://4.bp.blogspot.com/-PW2mQr8ymrs/WUvdxlCuVxI/AAAAAAAAGjc/5EtGPxbui5AIlO09YzhODQZPAY1et6R0QCLcBGAs/s640/diagram.jpg)
+
+Some reprojection analysis.
+
+
+
 
 
 

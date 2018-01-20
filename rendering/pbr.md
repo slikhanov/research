@@ -36,6 +36,13 @@ https://learnopengl.com/#!PBR/Theory
 ## Raytracing Reflection, Refraction, Fresnel, Total Internal Reflection, and Beer’s Law
 https://blog.demofox.org/2017/01/09/raytracing-reflection-refraction-fresnel-total-internal-reflection-and-beers-law/
 
+## Physically Based Rendering Algorithms: A Comprehensive Study In Unity3D
+http://www.jordanstevenstechart.com/physically-based-rendering
+
+![](https://static.wixstatic.com/media/93f407_16624c2ed4bc466c9999365cad4934b3~mv2.png/v1/fill/w_1024,h_651,al_c/93f407_16624c2ed4bc466c9999365cad4934b3~mv2.png)
+
+Half theory with some examples - unity.
+
 ## TAICHI 太極 – A COMPUTER GRAPHICS LIBRARY
 http://taichi.graphics
 

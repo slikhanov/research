@@ -34,6 +34,11 @@ https://solarianprogrammer.com/2017/12/14/clang-in-docker-container-cpp-17-devel
 
 Pretty similar to previous article, using Clang 5.
 
+## Docker CLI commands and what you can do with them
+https://dev.to/twaintaylor/docker-cli-commands-and-what-you-can-do-with-them-5dg3
+
+Introductory article that explain basic docker commands.
+
 ## A checklist for Docker in the Enterprise
 https://zwischenzugs.com/2016/07/08/a-checklist-for-docker-in-the-enterprise/
 
