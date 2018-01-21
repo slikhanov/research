@@ -55,5 +55,13 @@ leads to nice remakes and breakdowns. Whether this will stand true with id Tech 
 but we don’t necessarily need the source code to appreciate the nice graphics techniques implemented 
 in the engine.
 
+## Unreal Engine 4 Rendering Part 1: Introduction
+
+https://medium.com/@lordned/unreal-engine-4-rendering-overview-part-1-c47f2da65346
+
+![](https://cdn-images-1.medium.com/max/2000/1*TfJXRz0vLnSohV6v_cYQTw.png)
+
+Unreal Engine 4’s rendering system is endlessly configurable and supports most of the latest generation rendering techniques across multiple platforms. Writing materials in Unreal is very accessible thanks to the node-based editor but people are often hesitant about diving in deeper than that due to the rendering system’s complexity and lack of accessible educational content.
+
 
 
