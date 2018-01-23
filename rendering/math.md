@@ -21,6 +21,9 @@ http://jobtalle.com/lindenmayer_systems.html
 
 Overview.
 
+## DRAWING SIMPLE GENERATIVE ORGANICS WITH L-SYSTEMS
+https://vexlio.com/blog/drawing-simple-organics-with-l-systems/
+
 ## Introduction to Functional Analysis
 http://www1.maths.leeds.ac.uk/~kisilv/courses/math3263m.html
 

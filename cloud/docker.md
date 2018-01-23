@@ -39,10 +39,18 @@ https://dev.to/twaintaylor/docker-cli-commands-and-what-you-can-do-with-them-5dg
 
 Introductory article that explain basic docker commands.
 
+## Why to Docker Compose your developer environment
+https://dev.to/danlebrero/why-to-docker-compose-your-developer-environment
+
+Docker Compose introductory.
+
 ## Docker Swarm Concepts, Tips, and Tricks for a Docker Beginner
 https://dev.to/limiw/docker-swarm-concepts-tips-and-tricks-for-a-docker-beginner-4j4h
 
 Fairly short article about Docker Swarm.
+
+## Kubernetes: It's alive!
+https://dev.to/danielkun/kubernetes-its-alive-2ndc
 
 ## A checklist for Docker in the Enterprise
 https://zwischenzugs.com/2016/07/08/a-checklist-for-docker-in-the-enterprise/
