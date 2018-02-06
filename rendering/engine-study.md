@@ -63,5 +63,15 @@ https://medium.com/@lordned/unreal-engine-4-rendering-overview-part-1-c47f2da653
 
 Unreal Engine 4’s rendering system is endlessly configurable and supports most of the latest generation rendering techniques across multiple platforms. Writing materials in Unreal is very accessible thanks to the node-based editor but people are often hesitant about diving in deeper than that due to the rendering system’s complexity and lack of accessible educational content.
 
+## Rendering and shading in ADAM: Episode 3
+
+https://blogs.unity3d.com/2018/01/24/rendering-and-shading-in-adam-episode-3/
+![](https://blogs.unity3d.com/wp-content/uploads/2018/01/blogimage1.png)
+
+In the striking, real-time ADAM films, a number of components come together in Unity to deliver 
+the effects that have gained so much attention. In this post, we focus on just two aspects – albeit 
+very important aspects – of how Oats Studios achieved such memorable effects. So if you’d like 
+to know more about the custom shaders that these artists used, and real-time rendering of just one 
+frame with Unity 2017.1, read on!
 
 
