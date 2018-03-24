@@ -4,10 +4,11 @@ I'm making some progress incorporating more Docker into my daily workflows.
 I keep forgetting some commands, so here it's gonna be my memo block:
 
 ## Useful Commands
-To see what images are installed:
-```
-docker images
-```
+
+| Command | Description |
+| --- | --- |
+| `git status` | List all *new or modified* files |
+| `git diff` | Show file differences that **haven't been** staged |
 
 ## Dockerize your app and keep hot-reloading!
 https://blog.bam.tech/developper-news/dockerize-your-app-and-keep-hot-reloading
