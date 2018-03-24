@@ -7,8 +7,8 @@ I keep forgetting some commands, so here it's gonna be my memo block:
 
 | Command             | Description                                        |
 | ------------------- | -------------------------------------------------- |
-| `git status`        | List all *new or modified* files                   |
-| `git diff`          | Show file differences that **haven't been** staged |
+| `docker images`   | List all *new or modified* files                   |
+| `docker rmi <image>`          | Show file differences that **haven't been** staged |
 
 ## Dockerize your app and keep hot-reloading!
 https://blog.bam.tech/developper-news/dockerize-your-app-and-keep-hot-reloading
