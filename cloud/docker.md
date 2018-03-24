@@ -5,8 +5,9 @@ I keep forgetting some commands, so here it's gonna be my memo block:
 
 ## Useful Commands
 To see what images are installed:
+```
     docker images
-
+```
 
 ## Dockerize your app and keep hot-reloading!
 https://blog.bam.tech/developper-news/dockerize-your-app-and-keep-hot-reloading
