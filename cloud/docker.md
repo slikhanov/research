@@ -1,6 +1,11 @@
 # Docker Related Articles, Things To Try
 
-Since I'm pretty new to this thing, the structure of this is probably gonna be a mess.
+I'm making some progress incorporating more Docker into my daily workflows.
+I keep forgetting some commands, so here it's gonna be my memo block:
+
+## Useful Commands
+To see what images are installed:
+`docker images`
 
 ## Dockerize your app and keep hot-reloading!
 https://blog.bam.tech/developper-news/dockerize-your-app-and-keep-hot-reloading
