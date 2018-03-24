@@ -7,8 +7,8 @@ I keep forgetting some commands, so here it's gonna be my memo block:
 
 | Command             | Description                                        |
 | ------------------- | -------------------------------------------------- |
-| `docker images`   | List all *new or modified* files                   |
-| `docker rmi <image>`          | Show file differences that **haven't been** staged |
+| `docker images`   | Get the list of local images |
+| `docker rmi <image>`          | Remove local image by name or ID |
 
 ## Dockerize your app and keep hot-reloading!
 https://blog.bam.tech/developper-news/dockerize-your-app-and-keep-hot-reloading
