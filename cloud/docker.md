@@ -5,10 +5,10 @@ I keep forgetting some commands, so here it's gonna be my memo block:
 
 ## Useful Commands
 
-| Command             | Description                                        |
-| ------------------- | -------------------------------------------------- |
-| `docker images`   | Get the list of local images |
-| `docker rmi <image>`          | Remove local image by name or ID |
+| Command              | Description                      |
+| ---                  | ---                              |
+| `docker images`      | Get the list of local images     |
+| `docker rmi <image>` | Remove local image by name or ID |
 
 ## Dockerize your app and keep hot-reloading!
 https://blog.bam.tech/developper-news/dockerize-your-app-and-keep-hot-reloading
@@ -43,7 +43,7 @@ https://solarianprogrammer.com/2017/12/14/clang-in-docker-container-cpp-17-devel
 Pretty similar to previous article, using Clang 5.
 
 ## Docker CLI commands and what you can do with them
-https://dev.to/twaintaylor/docker-cli-commands-and-what-you-can-do-with-them-5dg3
+http://dev.to/twaintaylor/docker-cli-commands-and-what-you-can-do-with-them-5dg3
 
 Introductory article that explain basic docker commands.
 
