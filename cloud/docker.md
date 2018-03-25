@@ -5,10 +5,20 @@ I keep forgetting some commands, so here it's gonna be my memo block:
 
 ## Useful Commands
 
-| Command              | Description                      |
-| ---                  | ---                              |
-| `docker images`      | Get the list of local images     |
-| `docker rmi <image>` | Remove local image by name or ID |
+| Command                          | Description                                            |
+| ---                              | ---                                                    |
+| `docker images`                  | Get the list of local images                           |
+| `docker rmi <image>`             | Remove local image by name or ID                       |
+| `docker rmi -f <image>`          | Force remove local image by name or ID                 |
+| `docker run .. --name <name>`    | --name - gives name to container - good practice       |
+| `docker run -it <image>`         | -i - interactive -t - TTY - get the shell running      |
+| `<Ctrl-P-Q>`                     | To exit interactive shell, but container keeps running |
+| `docker ps`                      | List of running containers                             |
+| `docker attach <container_name>` | Attach to running container                            |
+| `docker rm <container_name>`     | Kill running container                                 |
+| `docker rm -f <container_name>`  | Force kill running container                           |
+
+
 
 ## Dockerize your app and keep hot-reloading!
 https://blog.bam.tech/developper-news/dockerize-your-app-and-keep-hot-reloading

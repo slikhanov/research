@@ -12,9 +12,9 @@ This document presents a new implementation of our Precomputed Atmospheric Scatt
 ### Sky Rendering in WebGL
 ![](http://codeflow.org/entries/2011/apr/11/advanced-webgl-part-1/screenshots/sunrise_thumb.jpg)
 
-http://codeflow.org/entries/2011/apr/11/advanced-webgl-part-1/
-http://codeflow.org/entries/2011/apr/13/advanced-webgl-part-2-sky-rendering/
-http://codeflow.org/entries/2011/apr/18/advanced-webgl-part-3-irradiance-environment-map/
+1. http://codeflow.org/entries/2011/apr/11/advanced-webgl-part-1/
+2. http://codeflow.org/entries/2011/apr/13/advanced-webgl-part-2-sky-rendering/
+3. http://codeflow.org/entries/2011/apr/18/advanced-webgl-part-3-irradiance-environment-map/
 
 ## Voxelization
 
