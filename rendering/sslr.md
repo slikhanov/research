@@ -60,6 +60,10 @@ https://gamedev.autodesk.com/blogs/1/post/2984586784789751777
 
 Some reprojection analysis.
 
+## Horizon-Based Indirect Lighting (HBIL)
+https://drive.google.com/file/d/1fmceYuM5J2s8puNHZ9o4OF3YjqzIvmRR/view
+
+
 
 
 
