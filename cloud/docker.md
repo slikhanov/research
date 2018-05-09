@@ -18,8 +18,6 @@ I keep forgetting some commands, so here it's gonna be my memo block:
 | `docker rm <container_name>`     | Kill running container                                 |
 | `docker rm -f <container_name>`  | Force kill running container                           |
 
-
-
 ## Dockerize your app and keep hot-reloading!
 https://blog.bam.tech/developper-news/dockerize-your-app-and-keep-hot-reloading
 
@@ -99,6 +97,12 @@ Microsoft eBook about containers in Windows.
 https://social.msdn.microsoft.com/Forums/sqlserver/en-US/386adbc4-3e43-4896-8cbb-ba9cc7fc6b72/how-to-install-directx-to-windows-server-core-docker-container?forum=windowscontainers
 
 Discussion about installing DirectX in Windows Docker image.
+
+### How to Dockerize Windows Applications
+https://blog.sixeyed.com/how-to-dockerize-windows-applications/
+
+
+
 
 
 
