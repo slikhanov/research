@@ -74,4 +74,8 @@ very important aspects – of how Oats Studios achieved such memorable effects. 
 to know more about the custom shaders that these artists used, and real-time rendering of just one 
 frame with Unity 2017.1, read on!
 
+## UNIGINE 2.5: Screen-Space Ray-Traced Global Illumination, Vector Roads API, Landcover Data Support, Superposition Demo
+
+https://developer.unigine.com/en/devlog/20170531-unigine-2.5
+![](https://developer.unigine.com/devlog/20170531-unigine-2.5/ssrtgi_gi_on_off.gif)
 
