@@ -53,6 +53,9 @@ Pretty similar to previous article, using Clang 5.
 ## Docker CLI commands and what you can do with them
 http://dev.to/twaintaylor/docker-cli-commands-and-what-you-can-do-with-them-5dg3
 
+## An Exhaustive Guide to Writing Dockerfiles for Node.js Web Apps
+https://blog.hasura.io/an-exhaustive-guide-to-writing-dockerfiles-for-node-js-web-apps-bbee6bd2f3c4
+
 Introductory article that explain basic docker commands.
 
 ## Why to Docker Compose your developer environment
@@ -67,6 +70,9 @@ Fairly short article about Docker Swarm.
 
 ## Kubernetes: It's alive!
 https://dev.to/danielkun/kubernetes-its-alive-2ndc
+
+## Deploying to Google Kubernetes Engine
+https://codeascraft.com/2018/06/05/deploying-to-google-kubernetes-engine/
 
 ## A checklist for Docker in the Enterprise
 https://zwischenzugs.com/2016/07/08/a-checklist-for-docker-in-the-enterprise/

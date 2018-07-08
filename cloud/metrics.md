@@ -25,4 +25,7 @@ Keeping link to this library for future exploration.
 ## StatsD vs collectd vs fluentd and Other Daemons You Should Know
 https://blog.takipi.com/statsd-vs-collectd-vs-fluentd-and-other-daemons-you-should-know/?utm_source=facebook&utm_medium=post&utm_content=daemons&utm_campaign=java
 
+## Practical Guide to StatsD/Graphite Monitoring
+https://matt.aimonetti.net/posts/2013/06/26/practical-guide-to-graphite-monitoring/
+
 
