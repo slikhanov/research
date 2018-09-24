@@ -40,12 +40,16 @@ https://mehdins.wordpress.com/2017/08/29/notes-on-anti-aliasing-texture-filterin
 ## Occlussion Culling
 
 ### Experiments in GPU-based Occlusion Culling
- https://interplayoflight.wordpress.com/2017/11/15/experiments-in-gpu-based-occlusion-culling/
+https://interplayoflight.wordpress.com/2017/11/15/experiments-in-gpu-based-occlusion-culling/
 
 ## Importance Sampling
 
 ### Efficient Weighted Sampling
- https://www.sebastiansylvan.com/post/importancesampling/
+https://www.sebastiansylvan.com/post/importancesampling/
+
+### Importance Sampling techniques for GGX with Smith Masking-Shadowing
+[Part 1](https://schuttejoe.github.io/post/ggximportancesamplingpart1/)
+[Part 2](https://schuttejoe.github.io/post/ggximportancesamplingpart2/)
 
 ## Bump Mapping
  http://apoorvaj.io/exploring-bump-mapping-with-webgl.html
