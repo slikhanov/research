@@ -18,6 +18,19 @@ I keep forgetting some commands, so here it's gonna be my memo block:
 | `docker rm <container_name>`     | Kill running container                                 |
 | `docker rm -f <container_name>`  | Force kill running container                           |
 
+## How to run docker on EC2
+
+https://medium.com/@khandelwal12nidhi/docker-setup-on-aws-ec2-instance-c670ff3d5f1b
+
+### Essential first steps
+Once get new Linux instance running (Amazon Linux) - log in and:
+
+1. `sudo yum update -y` to get latest package updates (not a docker, but still useful to do).
+2. `sudo yum install -y docker` to install docker.
+3. `sudo service docker start` to run docker as Linux service.
+4. `sudo usermod -a -G docker ec2-user` to give access to docker commands for ec2-user
+5. Re-login after this.
+
 ## Dockerize your app and keep hot-reloading!
 https://blog.bam.tech/developper-news/dockerize-your-app-and-keep-hot-reloading
 
