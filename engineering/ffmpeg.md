@@ -16,8 +16,9 @@ ffmpeg can output high quality GIF.
 
 - This example will skip the first 30 seconds (-ss 30) of the input and create a 3 second output (-t 3).
 - [fps](https://ffmpeg.org/ffmpeg-filters.html#fps) filter sets the frame rate. A rate of 10 frames per second is used in the example.
-  scale filter will resize the output to 320 pixels wide and automatically determine the height while preserving 
-  the aspect ratio. The lanczos scaling algorithm is used in this example.
+- [scale](https://ffmpeg.org/ffmpeg-filters.html#scale) filter will resize the output to 320 pixels wide and 
+  automatically determine the height while preserving the aspect ratio. The lanczos 
+  [scaling algorithm](https://ffmpeg.org/ffmpeg-scaler.html) is used in this example.
 - palettegen and paletteuse filters will generate and use a custom palette generated from your input. 
   These filters have many options, so refer to the links for a list of all available options and values. 
   Also see the Advanced options section below.
