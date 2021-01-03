@@ -42,5 +42,7 @@ The most important are:
 
 ## Useful FFmpeg resources
 1. [FFmpeg command lines to convert various video formats between each other](https://bytescout.com/blog/2016/12/ffmpeg-command-lines-convert-various-video-formats.html)
-2. 
+2. [CRF Guide (Constant Rate Factor in x264, x265 and libvpx)](https://slhck.info/video/2017/02/24/crf-guide.html) 
+3. [Nice tip how to produce QuickTime MJPEG-A](https://lists.libav.org/pipermail/ffmpeg-user/2009-March/019575.html)
+4. [Producing QuickTime RLE](https://superuser.com/questions/787166/transcoding-video-to-quicktime-animation-rle)
 
