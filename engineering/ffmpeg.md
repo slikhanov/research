@@ -40,4 +40,7 @@ The most important are:
 - See [High quality GIF with FFmpeg](http://blog.pkh.me/p/21-high-quality-gif-with-ffmpeg.html) for explanations, 
   example images, and more detailed info for advanced usage.
 
+## Useful FFmpeg resources
+1. [FFmpeg command lines to convert various video formats between each other](https://bytescout.com/blog/2016/12/ffmpeg-command-lines-convert-various-video-formats.html)
+2. 
 
